@@ -1,0 +1,9 @@
+# Завдання та вихідні конфіденційні матеріали
+bad_chart*
+task_for_candidate*
+test_data*
+
+# Python кеш
+__pycache__/
+*.py[cod]
+*$py.class
